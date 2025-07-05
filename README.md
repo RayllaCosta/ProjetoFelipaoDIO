@@ -1,5 +1,3 @@
-﻿# ProjetoFelipaoDIO
-
 🧙‍♂️ Classificador de Nível de Herói
 Este projeto foi desenvolvido como parte do curso da DIO. O objetivo é avaliar o nível de um herói com base na sua experiência (XP).
 
